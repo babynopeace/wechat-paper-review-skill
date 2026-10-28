@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术文献公众号解析"
+  short_description: "读论文、核对证据、截取原图并生成中文解析Word"
+  default_prompt: "使用 $wechat-paper-review 解读我提供的论文 PDF，按我修改后的学术公众号风格编写中文图文解析，配原论文截图并输出Word和Markdown。"

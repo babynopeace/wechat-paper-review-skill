@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "original_title": "Example Study (demo placeholder, not a real publication)",
+    "wechat_title": "【论文解析】示例：面向学术读者的研究方法与实验结果分析",
+    "authors": "演示作者（非真实论文）",
+    "journal": "演示期刊（仅用于脚本测试）",
+    "publication_date": "仅用于测试",
+    "doi": ""
+  },
+  "lead": ["这是占位示例，不包含任何真实科学实验结果。实际使用时请阅读完整论文并替换为真实内容。"],
+  "sections": [
+    {
+      "title": "研究背景",
+      "subsections": [
+        {"title": "研究问题", "blocks": [{"type": "paragraph", "text": "这一段用于演示文章结构。实际文稿必须依据来源文献编写，并保留出处。", "source_pages": [], "evidence": []}]}
+      ]
+    },
+    {
+      "title": "研究方法",
+      "blocks": [{"type": "paragraph", "text": "这里将概述研究设计、模型输入输出、评价指标和证据边界。"}]
+    },
+    {
+      "title": "个人思考与研究展望",
+      "blocks": [
+        {"type": "paragraph", "text": "该段为占位符。应基于论文尚未解决的科学问题展开评价，而非重复作者结论。"},
+        {"type": "paragraph", "text": "该段为占位符。应提出有可操作性的下一步验证方向，并避免编造临床价值。"}
+      ]
+    }
+  ]
+}
